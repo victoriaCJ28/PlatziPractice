@@ -1,0 +1,14 @@
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\bin\Debug\net8.0\ArrayDemoProject.exe
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\bin\Debug\net8.0\ArrayDemoProject.deps.json
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\bin\Debug\net8.0\ArrayDemoProject.runtimeconfig.json
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\bin\Debug\net8.0\ArrayDemoProject.dll
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\bin\Debug\net8.0\ArrayDemoProject.pdb
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\obj\Debug\net8.0\ArrayDemoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\obj\Debug\net8.0\ArrayDemoProject.AssemblyInfoInputs.cache
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\obj\Debug\net8.0\ArrayDemoProject.AssemblyInfo.cs
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\obj\Debug\net8.0\ArrayDemoProject.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\obj\Debug\net8.0\ArrayDemoProject.dll
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\obj\Debug\net8.0\refint\ArrayDemoProject.dll
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\obj\Debug\net8.0\ArrayDemoProject.pdb
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\obj\Debug\net8.0\ArrayDemoProject.genruntimeconfig.cache
+C:\Users\Victoria\source\repos\ArrayDemoProject\ArrayDemoProject\obj\Debug\net8.0\ref\ArrayDemoProject.dll
